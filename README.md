@@ -29,7 +29,7 @@ https://public.etherpad-mozilla.org/p/2016-02-08-friendly-github-intro
 **10:00 - 10:15 AM**
 
 * Introductions - Joey, Steph, Matt'
-* What does mozilla do - why are we hear, what can we do, how we can help, how you can get involved
+* What does mozilla do - why are we here, what can we do, how we can help, how you can get involved
 
 **10:15 - 10:45 AM**
 
