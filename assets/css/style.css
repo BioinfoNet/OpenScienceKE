@@ -24,24 +24,24 @@ body * {
 h1 {
   font-size: 32px;
   margin: 0 0 35px 0;
-  color: #273D44;
+  color: #11AA99;/*#273D44;*/
   position: relative;
   line-height: 120%;
 }
 h2 {
   font-size: 32px;
   font-style: italic;
-  color: #2581B7;
+  color: #11AA99;/*#2581B7;*/
   margin: 30px 0 20px 0;
 }
 h3 {
-  color: #2581B7;
+  color: #11AA99;/*#2581B7;*/
   font-size: 20px;
   font-weight: 500;
   margin: 20px 0 8px 0;
 }
 h4 {
-  color: #273D44;
+  color: #11AA99;/*#273D44;*/
   margin: 0 0 10px 0;
   font-size: 18px;
 }
@@ -73,7 +73,7 @@ ul li:before {
 }
 strong {
   font-weight: 500;
-  color: #273D44;
+  color: #11AA99;/*#273D44;*/
 }
 p {
   margin: 0 0 30px 0;
@@ -107,7 +107,7 @@ article {
   display: flex;
   margin: 35px 0 40px 0;
   background: #E0F3FF;
-  color: #2581B7;
+  color: #11AA99;/*#2581B7;*/
   padding: 30px 35px;
 }
 .example .title {
@@ -174,7 +174,7 @@ article {
 }
 .meta-information .details time,
 .meta-information .details .difficulty {
-  color: #2581B7;
+  color: #11AA99;/*#2581B7;*/
   font-weight: 700;
   margin-bottom: 3px;
   display: block;
@@ -201,7 +201,7 @@ article {
   margin-bottom: 0;
 }
 aside {
-  background: #4F99C4;
+  background: #20BFAD;/*#4F99C4*/
   position: fixed;
   height: 100vh;
   width: 230px;
@@ -231,12 +231,12 @@ nav a {
 }
 nav a.selected,
 nav a.selected:hover {
-  background: #2581B7;
+  background: #11AA99;/*#2581B7;*/
   color: white;
   font-weight: 500;
 }
 nav a:hover {
-  background: #2F8DBC;
+  background: #11AA99;/*#2F8DBC;*/
   color: #ffffff;
 }
 nav a:after {
@@ -270,7 +270,7 @@ nav a.selected:after {
   font-size: 22px;
   margin: 0 0 6px 0;
   padding: 0;
-  color: #2581B7;
+  color: #11AA99;/*#2581B7;*/
 }
 .steps time {
   margin: 0 0 10px 0;
@@ -315,8 +315,8 @@ nav a.selected:after {
   top: -10px;
   font-weight: 400;
   font-size: 22px;
-  color: #2581B7;
-  border: solid 2px #CAE8FA;
+  color: #11AA99;/*#2581B7;*/
+  border: solid 2px #11AA99;/*#CAE8FA;*/
   height: 43px;
   width: 43px;
   text-align: center;
@@ -369,7 +369,7 @@ nav a.selected:after {
 .steps ul li h2,
 .steps ol li h2 {
   font-size: 15px;
-  color: #273D44;
+  color: #11AA99;/*#273D44;*/
   font-style: normal;
   font-weight: 500;
   margin: 0;
@@ -391,7 +391,7 @@ nav a.selected:after {
 .glossary .term h3 {
   font-weight: 500;
   font-size: 16px;
-  color: #273D44;
+  color: #11AA99;/*#273D44;*/
   margin: 0;
 }
 .glossary .term p {
