@@ -1,4 +1,4 @@
-# A Friendly Github Intro
+# A Friendly Github Introduction
 This is a friendly introduction to making open, version-controlled, and collaborative projects using Github.
 
 You are invited to fork this repo and use our materials-- please let us know what you do with them and how it goes!
