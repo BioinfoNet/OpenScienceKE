@@ -14,7 +14,7 @@
 - equivalent to saving your changes to a file.  When you **commit** you usually include a brief description of the changes you made so you can identify versions later if you want to undo a change.
 
 #####Fetch
-- 
+- download changes to your local copy from a **remote** repository
 
 #####Fork
 - making a copy of *someone else's* repository into your own account. You can make any changes you want to a forked copy and you can request those changes be added to the original repository through a **pull request**.
@@ -26,7 +26,7 @@
 - Tags used to identify characteristics of an **issue** for sorting and triage.  A label can describe the priority-level of an issue, an issue type (e.g. bug, feature, question, etc.), or any other type of characteristic you'd like (e.g. "low-hanging fruit", "fun", "if time", "good first bug").  An issue can have as many labels as you want.
 
 #####Markdown
-- a simple syntax that lets you format (bold, italics, checkboxes, lists, etc.) your text in GitHub.  You can use this syntax in text files (.md), **commit** messages, **issues**, and more.  See [this guide] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for a quick rundown on Markdown.
+- a simple syntax (like HTML but easier) that lets you format (bold, italics, checkboxes, lists, etc.) your text in GitHub.  You can use this syntax in text files (.md), **commit** messages, **issues**, and more.  See [this guide] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for a quick rundown on Markdown.
 
 #####Master
 - 
@@ -44,7 +44,10 @@
 - 
 
 #####Remote
-- 
+- versions of your project repository that are hosted on the Internet or network somewhere (e.g. copy of your project on GitHub vs on your local computer).
 
 #####Repository
 - A repository can be thought of as a project folder. A repository contains all of the project files, **issues**, **labels**, and **milestones**. It also stores the history and versions of each file.
+
+#####Upstream
+- 
