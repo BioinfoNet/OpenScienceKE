@@ -1,9 +1,11 @@
+***
+We have a living [Etherpad](https://public.etherpad-mozilla.org/p/2016-02-08-friendly-github-intro) for the workshop here - Github Workshop, March 8th, 2016.
+***
+
 # A Friendly Github Introduction
 This is a friendly introduction to making open, version-controlled, and collaborative projects using Github.
 
 You are invited to fork this repo and use our materials-- please let us know what you do with them and how it goes!
-
-We have a living [Etherpad](https://public.etherpad-mozilla.org/p/2016-02-08-friendly-github-intro) for the workshop.
 
 ## About
 
