@@ -4,7 +4,7 @@ Here's the roadmap for the workshop:
 
 **9:30 - 10:00: Registration**
 
-* Coffee, tea, and cookies
+* Coffee, tea, and cookies - Thanks CTLT!
 
 **10:00 - 10:15: Introductions**
 
@@ -21,11 +21,12 @@ Here's the roadmap for the workshop:
 
 * Demo: [GitHub - Our First GitHub Project: Let’s get set up!](https://docs.google.com/presentation/d/1TkOLnznhfo_2sB4YnStyK8_Lo9WTgDt6xoRcMkyuJdY/edit?usp=sharing)
 
-**11:00 - 12:00: Set Up You First Project**
+**11:00 - 12:00: Set Up Your First Project**
 
-* You will have an hour to set up your first GitHub Project. To get a feeling for the workflow shown in the prior presentations, try to:
+* You will have an hour to play around in the GitHubverse - we will be around to help clarify and guide you through any questions you might have. 
+* To get a feeling for the workflow shown in the prior presentations, try to:
 	* Create a repo from scratch
-	* Make a README documenting what your project is about, who is involved, why it is interesting, how to get the project setup (e.g. what version of R, what packages are you using, links to references, etc.) 
+	* Make a README using markdown documenting what your project is about, who is involved, why it is interesting, how to get the project setup (e.g. what version of R, what packages are you using, links to references, and add a friendly gif, etc.) 
 	* Create some issues that need to be completed - add labels to them.
 	* Create a few commits
 	* Create a branch to experiment new features on:
@@ -35,12 +36,23 @@ Here's the roadmap for the workshop:
 
 **12:00 - 12:30: Lunch**
 
-* Pizza and drinks will be served (there will be some veg/gluten free options in case there are food allergies).
+* Pizza and drinks will be served (there will be some veg/gluten free options in case there are food allergies) - Thanks CTLT!
 
-**12:30 - 1:30: **
+**12:30 - 1:45: Collaborating on GitHub**
+
+* Presentation: [Collaborating with GitHub](https://docs.google.com/presentation/d/1v-gIFtZhyXEIfsUbizvGc_X8UqeQJ8IlBtdRYeDnkbA/edit?usp=sharing)
+* Group Exercise: Let's Plan a Party
+	* As a group we will work to plan a party - each table will be tasked with developing one of the details of the party (e.g. food, invitations, venue, etc) 
+
+**1:45 - 2:00: Share results / Feedback**
+
+* Share the results of the party planning
+* Share feedback on challenges, solutions, and recommendations
+
+**2:00 - 2:15: Break Time**
+
+* [Open Source Stretch](https://github.com/mozillascience/working-open-workshop/issues/42)
+* Cookies, coffee, and tea break - Thanks CTLT!
 
 
 
-9:30-10:00am registration, cookies, coffee and tea from CTLT
-12pm pizzas and drinks
-2pm  cookies, coffee and tea break from CTLT
