@@ -7,11 +7,13 @@
 
 ## Facilitator 
 
-* Matt Strimas-Mackay
+* [Matt Strimas-Mackay](http://strimas.com/)
+* [Will Hall](http://socialidentitylab.psych.ubc.ca/person/will-hall/)
 
 ## UBC 
 
 * Kelly Schultz
 * Erin Fields
 * Susan Atkey
+* CTLT
 
