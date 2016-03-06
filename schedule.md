@@ -40,7 +40,7 @@ Here's the roadmap for the workshop:
 
 **12:30 - 1:45: Collaborating on GitHub**
 
-* Presentation: [Collaborating with GitHub](https://docs.google.com/presentation/d/1v-gIFtZhyXEIfsUbizvGc_X8UqeQJ8IlBtdRYeDnkbA/edit?usp=sharing)
+* Presentation + Demo: [Collaborating with GitHub](https://docs.google.com/presentation/d/1v-gIFtZhyXEIfsUbizvGc_X8UqeQJ8IlBtdRYeDnkbA/edit?usp=sharing)
 * Group Exercise: Let's Plan a Party
 	* As a group we will work to plan a party - each table will be tasked with developing one of the details of the party (e.g. food, invitations, venue, etc) 
 
@@ -54,5 +54,25 @@ Here's the roadmap for the workshop:
 * [Open Source Stretch](https://github.com/mozillascience/working-open-workshop/issues/42)
 * Cookies, coffee, and tea break - Thanks CTLT!
 
+
+**2:15 - 2:45: Essential Pieces of a Repo**
+
+* Why we need:
+	* README
+	* CONTRIBUTING
+	* CODE OF CONDUCT
+	* LICENSE
+
+* On open access, open science, and open education ...
+
+**2:45 - 3:15: Next Steps / Taking it further** 
+
+* Github Pages (gh-pages)
+* Post-assessment 
+* Finding community 
+
+**3:15 - 3:30: Close**
+
+* Wrapping up last questions, feedback, etc. 
 
 
