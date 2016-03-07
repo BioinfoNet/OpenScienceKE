@@ -4,6 +4,8 @@
 
 This is a little R script that shows where the UBC GitHub Workshop is happening.
 
+See the working map [here](http://joeyklee.github.io/friendly-github-intro/examples/interactive-r-map/output/) - served using gh-pages.
+
 ## Setup
 
 I'm using a:
