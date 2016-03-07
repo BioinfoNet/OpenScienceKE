@@ -422,3 +422,13 @@ nav a.selected:after {
 .resources .resource p {
   margin: 10px 0 0 0;
 }
+article img{
+  width:960px;
+
+}
+article pre{
+  background-color: #F0F0F0;
+  color:black;
+  padding: 10px;
+  width:100%;
+}
