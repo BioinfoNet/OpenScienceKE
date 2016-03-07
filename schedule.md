@@ -67,9 +67,10 @@ Here's the roadmap for the workshop:
 
 **2:45 - 3:15: Next Steps / Taking it further** 
 
-* Github Pages (gh-pages)
-* Post-assessment 
-* Finding community 
+<!--* Github Pages (gh-pages)-->
+<!--* Post-assessment -->
+<!--* Finding community -->
+* TBD
 
 **3:15 - 3:30: Close**
 
