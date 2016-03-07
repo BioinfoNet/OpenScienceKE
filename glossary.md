@@ -2,7 +2,7 @@
 - an identical copy of a project at a particular point in time kept separate from the 'master' branch (primary copy). This keeps your code in the 'master' branch safe while you make changes and experiment with code on the new branch.  You can **merge** your new branch back into the 'master' branch when you want to publish your changes.
 
 #####Clone
-- a copy of an online repository on your local computer so you can make edits on your own personal copy without having to be online. You can sync changes between your clone and the **remote** copy by **pushing** when you are online.
+- a copy of an online repository on your local computer so you can make edits on your own personal copy without having to be online. You can sync changes between your clone and the **remote** copy when you are online.
 
 #####Collaborator
 - someone with read and write privileges to a repository as approved by the repository owner.
@@ -29,7 +29,7 @@
 - a simple syntax (like HTML but easier) that lets you format (bold, italics, checkboxes, lists, etc.) your text in GitHub.  You can use this syntax in text files (.md), **commit** messages, **issues**, and more.  See [this guide] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for a quick rundown on Markdown.
 
 #####Master
-- 
+- the default **branch** in your repository.
 
 #####Merging
 - taking the changes from one **branch** and adding them to another.  This process takes place through a **pull request**.
@@ -40,14 +40,8 @@
 #####Pull Request
 - a request to accept edits you've made to a project on your **forked** copy or **branch**.  A repository owner or **collaborator** can accept or reject a pull request.  Once you have a pull request accepted, you become a **contributor** to that project.
 
-#####Push
-- 
-
 #####Remote
 - versions of your project repository that are hosted on the Internet or network somewhere (e.g. copy of your project on GitHub vs on your local computer).
 
 #####Repository
 - A repository can be thought of as a project folder. A repository contains all of the project files, **issues**, **labels**, and **milestones**. It also stores the history and versions of each file.
-
-#####Upstream
-- 
