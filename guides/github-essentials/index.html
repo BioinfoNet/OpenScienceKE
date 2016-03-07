@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>GitHub Essentials</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,400italic,500,500italic,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../../assets/css/style.css">
+    <link rel="icon" type="image/ico" href="https://mozillascience.org/img/favicon.ico">
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="../../assets/javascript/script.js" type="text/javascript" charset="utf-8"></script>
+</head>
+
+<body>
+    <aside>
+        <div class="image">
+            <img src="../../assets/images/science-fox.svg">
+        </div>
+        <nav>
+            <a class="selected" href="#introduction">Introduction</a>
+            <a href="#steps-to-complete-1">GitHub Online: Steps to Complete</a>
+            <a href="#steps-to-complete-2">GitHub Desktop: Steps to Complete</a>
+            <a href="#glossary">Glossary</a>
+            <a href="#resources">Resources</a>
+        </nav>
+    </aside>
+    <article>
+        <div class="logo">
+            <a href="https://mozillascience.org" title="Mozilla Science Lab">
+                <img src="../../assets/images/science-lab-logo.svg" />
+            </a>
+        </div>
+        <h1>GitHub Essentials</h1>
+        <div class="meta-information">
+            <p class="summary">
+                Get comfortable with the essentials of GitHub. Practice creating a repo, adding resources to your repo, working with issues and labels, forking and branching, writing commit messages, making and reviewing pull requests, and merging changes.
+            </p>
+            <div class="details">
+                <time>45 to 60 minutes</time>
+                <p class="difficulty">Beginner - Intermediate</p>
+            </div>
+        </div>
+        <section class="presentation-details">
+            <section>
+                <h4>Format</h4>
+                <p>
+                    This is designed as an in-person, facilitated workshop with pairs of learners working together, or individually. It could also be done online.
+                </p>
+            </section>
+            <section>
+                <h4>Target Audience</h4>
+                <p>
+                    People new to Git/GitHub looking for some practice with the workflow.
+                </p>
+            </section>
+            <section>
+                <h4>Materials</h4>
+                <ul>
+                    <li>An Internet connection to access the GitHub site</li>
+                    <li>Computers to work on, ideally with GitHub Desktop installed</li>
+                    <li>An Internet connection to access the GitHub site</li>
+                </ul>
+            </section>
+        </section>
+        <h2 id="introduction">Introduction</h2>
+        <p>GitHub is a web-based interface for version control, a way of keeping track of changes made to a collection of working documents. GitHub provides a structure and space for communicating about collaborative work on open projects. <strong> With bit of set-up, and a good workflow, you can make your project accessible and transparent, and create a respectful and productive working environment for your collaborators.</strong></p>
+        <p>This exercise walks you through a workflow for using Git/Github through the GitHub web interface and through the GitHub Desktop App. You will learn through examples about how to make commits, create issues, create branches and merge them, and revert commits. You will also begin writing things in Markdown - a simple "markup" language used for blogging, documentation, and even writing papers! </p>
+        <!-- <img src="../../handouts/img/repo-learning.png"></img> -->
+        <h2 id="steps-to-complete-1">GitHub Online: Steps to Complete</h2>
+        <ol class="steps">
+            <!-- Step 0 -->
+            <li>
+                <h1>Sign up and install</h1>
+                <p>
+                    Start by signing up with Github Online and installing the Github Desktop
+                </p>
+                <a href="http://github.com/" target="blank">Sign up</a>
+                <img src="../../assets/images-slides/signup.png">
+                <a href="http://desktop.github.com/" target="blank">Install</a>
+                <img src="../../assets/images-slides/install.png">
+            </li>
+            <!-- Step 1 -->
+            <li>
+                <h1>Create a Repo</h1>
+                <p>
+                    Every project starts by creating a "new repository"
+                </p>
+                <img src="../../assets/images-slides/new-repo.png">
+            </li>
+            <!-- Step 2 -->
+            <li>
+                <h1>Create a title & description</h1>
+                <p>Create a project title and description. Good practice is to either use dashes ("-") or underscores ("_") between words in your title (e.g. my-first-repo or my_first_repo)</p>
+                <p>Write a short description of your repository.</p>
+                <p>Initialize your repo with a README - the title and description you write above will be shown by default.</p>
+                <p>If you are sure what kind of license you want on your repo, select one here, or put your own license in later.</p>
+                <img src="../../assets/images-slides/new-repo-details.png">
+                <p>Your first repo!</p>
+                <img src="../../assets/images-slides/initial-repo.png">
+            </li>
+            <!-- Step 3 -->
+            <li>
+                <h1>Your first commit</h1>
+                <p>Let's start by adding some content to your README. To make your first commit, you are going to follow a few steps:
+                </p>
+                <p><strong>First: Click on the README.md & then edit button</strong></p>
+                <img src="../../assets/images-slides/initial-repo-click.png">
+                <img src="../../assets/images-slides/edit-button.png">
+                <p><strong>Second: Using the Markdown syntax put in the following sections and a short description for each</strong>
+                </p>
+                <code><pre>
+# Friendly Collaboration Party 
+
+This repository is for planning a party to learn GitHub and more!
+
+## About
+This is some text about my project. It is interesting because it answers this question about the universe. 
+
+## Team
+So far my team is small - just 1 person, but I'm willing to work with you!
+
+## Setup & Requirements
+This project requires a computer and internet. 
+                </pre></code>
+                <img src="../../assets/images-slides/edit-file.png">
+
+                <p><strong>Third: Add a commit message</strong> - Your commit message should point to the changes that you've made (e.g. added content to readme) and press the commit button!
+                </p>
+                <img src="../../assets/images-slides/commit-message.png">
+
+                <center><p> Hooray! 👏🏽✨🎉 Your first commit!</p></center>
+            </li>
+            <!-- Step 4 -->
+            <li>
+                <h1>Create an Issue</h1>
+                <p>Go to the Issues Tab and create and issue about a task you want to complete (e.g. need more detailed README or create CODEOFCONDUCT.md).</p>
+
+                <p>Assign the task to yourself where it says "Assignee" and "Assign yourself"</p>
+
+                <p>Label the task in a category you thin is appropriate - or create a new label!</p>
+
+                <img src="../../assets/images-slides/issues-help-needed.gif">
+
+            </li>
+            <li>
+                <h1>Create a branch</h1>
+                <p>Create a branch to add some features to your project without affecting or possibly breaking the current state of your project.</p>
+                <img src="../../assets/images-slides/branching-github.gif">
+
+                <p>While in your new branch, "create a new file" or "edit" and existing file - try to address the issue you created above.</p>
+                
+            </li>
+            <li>
+                <h1>Merge the changes from the branch</h1>
+                <p>Once you've made some changes to an existing file or added a new file, try to merge that file back in to your "master" branch.</p>
+
+                <p>Make sure your commit message on the merge is meaningful and points to the changes you made.</p>
+                <img src="../../assets/images-slides/merging-branch.gif">
+            </li>
+            <li>
+                <h1>Close the Issue</h1>
+                <p>
+                    If you believe you've done a good job addressing the issue you opened up earlier, close the issue! 
+                </p>
+            </li>
+        </ol>
+        <h2 id="steps-to-complete-2">GitHub Desktop: Steps to Complete</h2>
+        <p>In this exercise, you will add an existing project on your local computer to GitHub. If you do not have an existing project or want to use an example one, feel free to use any of these three example projects:
+        <ul>
+            <li><a href="https://www.dropbox.com/s/1xtfj3sbyzkmjge/chocolate-chip-cookies.zip?dl=1" target="blank">Chocolate Chip Cookie Recipe</a></li>
+            <li><a href="https://www.dropbox.com/s/wcy6w7nptkjdyz1/interactive-r-map.zip?dl=1" target="blank">Interactive R map</a></li>
+            <li><a href="https://www.dropbox.com/s/u2gglh48mq6pakq/portfolio-template.zip?dl=1" target="blank">Web Portfolio Template</a></li>
+        </ul>
+        </p>
+        <ol class="steps">
+            <!-- Step 0 -->
+            <li>
+                <h1>Open Github Desktop</h1>
+                <p>
+                    Start by opening up GitHub Desktop.
+                </p>
+                <!-- <a href="http://github.com/" target="blank">Sign up</a>
+                <img src="../../assets/images-slides/signup.png"> -->
+            </li>
+            <li>
+                <h1>Create a branch</h1>
+                <p></p>
+            </li>
+            <li>
+                <h1>Merge the changes from the branch</h1>
+                <p></p>
+            </li>
+            <li>
+                <h1>Close the Issue</h1>
+                <p>
+                    <strong>As project lead:</strong> close the issue with more thanks, gifs, and emojis!
+                </p>
+            </li>
+        </ol>
+        <h2 id="glossary">Glossary</h2>
+        <section class="glossary">
+            <section class="term">
+                <h3>repository, or repo</h3>
+                <p>
+                    a collection of documents related to your project, in which you create and save new code or content.
+                </p>
+            </section>
+            <section class="term">
+                <h3>markdown</h3>
+                <p>
+                    a lightweight way of annotating a document with instructions that tell a web browser how to format and display text.
+                </p>
+            </section>
+            <section class="term">
+                <h3>version control</h3>
+                <p>
+                    a way of tracking changes to a document or collection of documents. Version control is like a time machine, it can take you back to the moment your document was created, or any other point in time when you or a collaborator saved that document.
+                </p>
+            </section>
+            <section class="term">
+                <h3>Git</h3>
+                <p>
+                    the command-line software that tracks all changes to a collection of documents
+                </p>
+            </section>
+            <section class="term">
+                <h3>GitHub</h3>
+                <p>
+                    a service that hosts your repository online and helps you work with contributors. GitHub adds a web-based interface to version control.
+                </p>
+            </section>
+            <section class="term">
+                <h3>fork</h3>
+                <p>
+                    a copy of a repository that is saved in another user's GitHub account.
+                </p>
+            </section>
+            <section class="term">
+                <h3>branch</h3>
+                <p>
+                    a copy of a repo that is contained within the orignal repo. Branches are used to work on a project features without altering the original or "master" repo.
+                </p>
+            </section>
+            <section class="term">
+                <h3>commit</h3>
+                <p>
+                    a saved change to a document in a repository.
+                </p>
+            </section>
+            <section class="term">
+                <h3>issue</h3>
+                <p>
+                    a message on gitHub that outlines a task that needs to be completed.
+                </p>
+            </section>
+            <section class="term">
+                <h3>pull request</h3>
+                <p>
+                    a request to add a commit or collection of commits to a repository.
+                </p>
+            </section>
+            <section class="term">
+                <h3>merge</h3>
+                <p>
+                    the act of incorporating new changes (commits) into a repository.
+                </p>
+            </section>
+        </section>
+        <!--
+            <section class="resources">
+                <section class="resource">
+                    <h4>Resource Name</h4>
+                    <a href="#">http://link.to/resource</a>
+                    <p>This is a description of the resource. Summarizes what it is, you know?</p>
+                </section>
+            </section>
+            -->
+    </article>
+</body>
+
+</html>
