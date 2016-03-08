@@ -13,11 +13,11 @@ Here's the roadmap for the workshop:
 * Say "hello" to your table group
 * Code of Conduct
 
-**10:15 - 10:30: Github - What, Why, & Welcome**
+**10:15 - 10:35: Github - What, Why, & Welcome**
 
 * Presentation: [Github - What, Why, & Welcome](https://docs.google.com/presentation/d/1Tfa3zSGAxDPBkLwC5DByGIsyJJIIvTi-vaxuY6oQtFY/edit?usp=sharing)
 
-**10:30 - 11:00: Getting Started With GitHub**
+**10:35 - 11:00: Getting Started With GitHub**
 
 * Demo: [GitHub - Our First GitHub Project: Let’s get set up!](https://docs.google.com/presentation/d/1TkOLnznhfo_2sB4YnStyK8_Lo9WTgDt6xoRcMkyuJdY/edit?usp=sharing)
 
@@ -67,9 +67,10 @@ Here's the roadmap for the workshop:
 
 **2:45 - 3:15: Next Steps / Taking it further** 
 
-* Github Pages (gh-pages)
-* Post-assessment 
-* Finding community 
+<!--* Github Pages (gh-pages)-->
+<!--* Post-assessment -->
+<!--* Finding community -->
+* TBD
 
 **3:15 - 3:30: Close**
 
