@@ -4,7 +4,7 @@ Here's the roadmap for the workshop:
 
 **9:30 - 10:00: Registration**
 
-* Coffee, tea, and cookies - Thanks CTLT!
+* Coffee, tea, and cookies - Thanks UBC Library!!!!
 
 **10:00 - 10:15: Introductions**
 
@@ -38,7 +38,7 @@ Here's the roadmap for the workshop:
 
 **12:00 - 12:30: Lunch**
 
-* Pizza and drinks will be served (there will be some veg/gluten free options in case there are food allergies) - Thanks CTLT!
+* Pizza and drinks will be served (there will be some veg/gluten free options in case there are food allergies) - Thanks UBC Library (again)!
 
 **12:30 - 1:45: Collaborating on GitHub**
 
@@ -56,7 +56,7 @@ Here's the roadmap for the workshop:
 **2:00 - 2:15: Break Time**
 
 * [Open Source Stretch](https://github.com/mozillascience/working-open-workshop/issues/42)
-* Cookies, coffee, and tea break - Thanks CTLT!
+* Cookies, coffee, and tea break - Thanks UBC Library!  Our fueling heroes of the day!
 
 
 **2:15 - 2:45: Essential Pieces of a Repo**
