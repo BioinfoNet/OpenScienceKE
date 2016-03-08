@@ -23,6 +23,8 @@ Here's the roadmap for the workshop:
 
 **11:00 - 12:00: Set Up Your First Project**
 
+[Github Essentials Guide](http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/)
+
 * You will have an hour to play around in the GitHubverse - we will be around to help clarify and guide you through any questions you might have. 
 * To get a feeling for the workflow shown in the prior presentations, try to:
 	* Create a repo from scratch
@@ -41,6 +43,8 @@ Here's the roadmap for the workshop:
 **12:30 - 1:45: Collaborating on GitHub**
 
 * Presentation + Demo: [Collaborating with GitHub](https://docs.google.com/presentation/d/1v-gIFtZhyXEIfsUbizvGc_X8UqeQJ8IlBtdRYeDnkbA/edit?usp=sharing)
+
+[GitHub Collaboration Workflow](http://joeyklee.github.io/friendly-github-intro/guides/github-collaboration-party/)
 * Group Exercise: Let's Plan a Party
 	* As a group we will work to plan a party - each table will be tasked with developing one of the details of the party (e.g. food, invitations, venue, etc) 
 
