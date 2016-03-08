@@ -1,3 +1,5 @@
+❤️
+
 ***
 We have a living [Etherpad](https://public.etherpad-mozilla.org/p/2016-02-08-friendly-github-intro) for the workshop here - Github Workshop, March 8th, 2016.
 ***
