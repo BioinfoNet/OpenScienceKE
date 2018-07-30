@@ -1,83 +1,93 @@
-# Schedule
+# Open Science Workshop Schedule
 
-Here's the roadmap for the workshop:
+Here's the roadmap for the Open Science workshop:
 
-**9:30 - 10:00: Registration**
+## Day 1 (August 9, 9:00AM - 5:00PM)
+### 9:00AM - 9:30AM: Welcome (Caleb Kibet)
+* Registration
+* Welcome
+* Introductions
+* set-up
 
-* Coffee, tea, and cookies - Thanks UBC Library!!!!
+### 9:30AM - 10:00AM: Presentation
+* Refresher on Open Science
+* Open Science Tools
 
-**10:00 - 10:15: Introductions**
+### 10:00AM - 11:00AM: Commandline (Daniel Ouso)
+* Basic Linux commandline introduction
 
-* About us
-* About Mozilla Science Lab
-* Say "hello" to your table group
-* Code of Conduct
+### 11:00AM - 11:15AM
+* Tea Break
 
-**10:15 - 10:35: Github - What, Why, & Welcome**
-
-* Presentation: [Github - What, Why, & Welcome](https://docs.google.com/presentation/d/1Tfa3zSGAxDPBkLwC5DByGIsyJJIIvTi-vaxuY6oQtFY/edit?usp=sharing)
-
-**10:35 - 11:00: Getting Started With GitHub**
-
-* Demo: [GitHub - Our First GitHub Project: Let’s get set up!](https://docs.google.com/presentation/d/1TkOLnznhfo_2sB4YnStyK8_Lo9WTgDt6xoRcMkyuJdY/edit?usp=sharing)
-
-**11:00 - 12:00: Set Up Your First Project**
-
-[Github Essentials Guide](http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/)
-
-* You will have an hour to play around in the GitHubverse - we will be around to help clarify and guide you through any questions you might have. 
-* To get a feeling for the workflow shown in the prior presentations, try to:
-	* Create a repo from scratch
-	* Make a README using markdown documenting what your project is about, who is involved, why it is interesting, how to get the project setup (e.g. what version of R, what packages are you using, links to references, and add a friendly gif, etc.) 
-	* Create some issues that need to be completed - add labels to them.
-	* Create a few commits
-	* Create a branch to experiment new features on:
-		* make a pull request to merge those changes into your "master" branch
-	* Revert a commit
-	* Celebrate! 
-
-**12:00 - 12:30: Lunch**
-
-* Pizza and drinks will be served (there will be some veg/gluten free options in case there are food allergies) - Thanks UBC Library (again)!
-
-**12:30 - 1:45: Collaborating on GitHub**
-
-* Presentation + Demo: [Collaborating with GitHub](https://docs.google.com/presentation/d/1v-gIFtZhyXEIfsUbizvGc_X8UqeQJ8IlBtdRYeDnkbA/edit?usp=sharing)
-
-[GitHub Collaboration Workflow](http://joeyklee.github.io/friendly-github-intro/guides/github-collaboration-party/)
-* Group Exercise: Let's Plan a Party
-	* As a group we will work to plan a party - each table will be tasked with developing one of the details of the party (e.g. food, invitations, venue, etc) 
-
-**1:45 - 2:00: Share results / Feedback**
-
-* Share the results of the party planning
-* Share feedback on challenges, solutions, and recommendations
-
-**2:00 - 2:15: Break Time**
-
-* [Open Source Stretch](https://github.com/mozillascience/working-open-workshop/issues/42)
-* Cookies, coffee, and tea break - Thanks UBC Library!  Our fueling heroes of the day!
+### 11:15 - 12:30: Introduction to markdown (Caleb)
+* Markdown syntax
+* markdown editors
 
 
-**2:15 - 2:45: Essential Pieces of a Repo**
+### 12:30PM - 1:30PM
+* LUNCH
 
-* Why we need:
-	* README
-	* CONTRIBUTING
-	* CODE OF CONDUCT
-	* LICENSE
+### 1:30PM - 2:00PM: Discussions and Interactions (Rosaline Macharia)
+* Time to interact
+* Form teams
 
-* On open access, open science, and open education ...
+### 2:00PM - 3:00PM: Git and GitHub (Caleb and ??)
+* Introduction to GitHub
+* Setting Up GitHub account
+* GitHub on the command line
 
-**2:45 - 3:15: Next Steps / Taking it further** 
+### 3:00PM - 4:00PM: Hands-on GitHub ()
+* Creating a Git repository
+* Adding changes to stage
+* Committing changes
+* Pushing changes to GitHub
 
-<!--* Github Pages (gh-pages)-->
-<!--* Post-assessment -->
-<!--* Finding community -->
-* TBD
+### 4:00PM - 4:15PM
+* BREAK
 
-**3:15 - 3:30: Close**
+### 4:15PM - 5:00PM: GitHub for Collaboration ()
+* Forking a repository
+* Creating issues and labels
+* Merging chnages
 
-* Wrapping up last questions, feedback, etc. 
+
+### 5:00PM - 5:30PM
+* Q&A and Wrap Up for the Day
 
 
+## Day 2 (August 10, 9:30AM - 5:30PM)
+
+### 9:00AM - 9:30AM
+* Set up, Q&A
+
+### 9:30AM - 10:45AM: Rstudio
+* Reproducible Research in R
+* Rmarkdown
+* 
+
+### 10:45AM - 11:00AM
+* BREAK
+
+### 11:00AM - 12:30PM: Jupyter Notebooks (Ben and Caleb)
+* Introduction to Jupyter
+* Jupyter for reproducible research
+* Jupyter plugins
+
+### 12:30PM - 1:30PM
+* LUNCH
+
+### 1:30PM - 2:30PM: Interactive Sessions
+* Group disciussions and interactions
+
+
+### 2:30PM - 3:45PM
+* Hands-on Group activities
+
+### 3:45PM - 4:00PM: 
+* BREAK
+
+### 4:00PM - 5:00 PM
+* Recap and Discussing possible Open Science Projects
+
+### 5:00PM - 5:30PM
+* Q&A and Wrap Up

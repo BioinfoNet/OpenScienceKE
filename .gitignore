@@ -1,1 +1,4 @@
-*.zip
+*.zip 
+*.ipynb_checkpoints 
+*.pyc
+*/.ipynb_checkpoints/*
