@@ -38,4 +38,3 @@ We acknowledge the contribution by [Mozilla Science Lab](https://science.mozilla
 
 ### Acknowledgement
 We hereby acknowledge the funding for this project from Alfred-Sloan Foundation through [Mozilla Science Lab](https://science.mozilla.org/).
-
