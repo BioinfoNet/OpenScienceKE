@@ -9,7 +9,8 @@ Here's the roadmap for the Open Science workshop:
 * Introductions
 * set-up
 
-### 9:30AM - 10:00AM: Presentation
+### 9:30AM - 10:15AM: Presentations
+* Presentation by KENET
 * Refresher on Open Science
 * Open Science Tools
 
