@@ -34,7 +34,7 @@ Here's the roadmap for the Open Science workshop:
 
 ### 2:00PM - 3:00PM: Git and GitHub (Caleb and ??)
 * Introduction to GitHub
-* Setting Up GitHub account
+* Setting up GitHub account
 * GitHub on the command line
 
 ### 3:00PM - 4:00PM: Hands-on GitHub ()
@@ -62,9 +62,8 @@ Here's the roadmap for the Open Science workshop:
 * Set up, Q&A
 
 ### 9:30AM - 10:45AM: Rstudio
-* Reproducible Research in R
+* Reproducible Research in RStudio
 * Rmarkdown
-* 
 
 ### 10:45AM - 11:00AM
 * BREAK
