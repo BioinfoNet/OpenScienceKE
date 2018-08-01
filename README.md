@@ -13,7 +13,7 @@ You can participate in a number of ways, including:
 4. You Love open science and would like to fund our events
 
 ## Events
-We are organizing seminars in May, workshops in August and hackathons in September. Watch [this page](https://kipkurui.github.io/studyGroup/) for our events posting. 
+We are organizing seminars in May, workshops in August and hackathons in September. Keep an eye [this page](https://kipkurui.github.io/studyGroup/) for our events posting. 
 
 ### Open Science Seminars
 See [this page](./OpenScienceSeminar.md) for more information.
@@ -31,10 +31,10 @@ For questions, suggestions or to participate, reach me via:
 - Email: kipkuruis [at] hotmail.com
 
 ## License
-All content of this repo is released under the [C-BY 4.0 license]((https://creativecommons.org/licenses/by/4.0/legalcode)
+All content of this repo is released under the [CC-BY 4.0 license]((https://creativecommons.org/licenses/by/4.0/legalcode)
 
 ### Attribution
-We acknowledge the contribution by [Mozilla Science Lab](https://science.mozilla.org/) and the [contributors](https://github.com/BioinfoNet/OpenScienceKE/graphs/contributors) to this template. Sourced from https://github.com/joeyklee/friendly-github-intro. We have edited and stripped the content for our Open Science Workshop. 
+The contribution of [Mozilla Science Lab](https://science.mozilla.org/) and the [commit contributors](https://github.com/BioinfoNet/OpenScienceKE/graphs/contributors) to this template is hereby acknowledged. Sourced from https://github.com/joeyklee/friendly-github-intro. We have edited and stripped the content for our Open Science Workshop. 
 
 ### Acknowledgement
-We hereby acknowledge the funding for this project from Alfred-Sloan Foundation through [Mozilla Science Lab](https://science.mozilla.org/).
+We hereby acknowledge the funding for this project from [Alfred  P. Sloan Foundation](https://sloan.org/) through [Mozilla Science Lab](https://science.mozilla.org/) Mini-Grants.
