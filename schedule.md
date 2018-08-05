@@ -77,8 +77,7 @@ Here's the roadmap for the Open Science workshop:
 * LUNCH
 
 ### 1:30PM - 2:30PM: Interactive Sessions
-* Group disciussions and interactions
-
+* Group discussions and interactions
 
 ### 2:30PM - 3:45PM
 * Hands-on Group activities
@@ -87,7 +86,7 @@ Here's the roadmap for the Open Science workshop:
 * BREAK
 
 ### 4:00PM - 5:00 PM
-* Recap and Discussing possible Open Science Projects
+* Recap and discussions on possible hackathon projects
 
 ### 5:00PM - 5:30PM
 * Q&A and Wrap Up
