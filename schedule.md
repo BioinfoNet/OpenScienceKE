@@ -3,7 +3,7 @@
 Here's the roadmap for the Open Science workshop:
 
 ## Day 1 (August 9, 9:00AM - 5:00PM)
-### 9:00AM - 9:30AM: Welcome (Caleb Kibet)
+### 9:00AM - 9:30AM: Welcome (Caleb)
 * Registration
 * Welcome
 * Introductions
@@ -14,7 +14,7 @@ Here's the roadmap for the Open Science workshop:
 * Refresher on Open Science
 * Open Science Tools
 
-### 10:00AM - 11:00AM: Commandline (Daniel Ouso)
+### 10:00AM - 11:00AM: Commandline (Ouso)
 * Basic Linux commandline introduction
 
 ### 11:00AM - 11:15AM
@@ -28,16 +28,16 @@ Here's the roadmap for the Open Science workshop:
 ### 12:30PM - 1:30PM
 * LUNCH
 
-### 1:30PM - 2:00PM: Discussions and Interactions (Rosaline Macharia)
+### 1:30PM - 2:00PM: Discussions and Interactions (Rosaline)
 * Time to interact
 * Form teams
 
-### 2:00PM - 3:00PM: Git and GitHub (Caleb and ??)
+### 2:00PM - 3:00PM: Git and GitHub (Caleb)
 * Introduction to GitHub
 * Setting up GitHub account
 * GitHub on the command line
 
-### 3:00PM - 4:00PM: Hands-on GitHub ()
+### 3:00PM - 4:00PM: Hands-on GitHub (Caleb)
 * Creating a Git repository
 * Adding changes to stage
 * Committing changes
@@ -46,7 +46,7 @@ Here's the roadmap for the Open Science workshop:
 ### 4:00PM - 4:15PM
 * BREAK
 
-### 4:15PM - 5:00PM: GitHub for Collaboration ()
+### 4:15PM - 5:00PM: GitHub for Collaboration (Ronald)
 * Forking a repository
 * Creating issues and labels
 * Merging chnages
@@ -61,7 +61,7 @@ Here's the roadmap for the Open Science workshop:
 ### 9:00AM - 9:30AM
 * Set up, Q&A
 
-### 9:30AM - 10:45AM: Rstudio
+### 9:30AM - 10:45AM: Rstudio (Kelvin and Caleb)
 * Reproducible Research in RStudio
 * Rmarkdown
 
