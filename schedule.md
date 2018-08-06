@@ -3,7 +3,7 @@
 Here's the roadmap for the Open Science workshop:
 
 ## Day 1 (August 9, 9:00AM - 5:00PM)
-### 9:00AM - 9:30AM: Welcome (Caleb)
+### 9:00AM - 9:30AM: Welcome (Caleb and Pauline)
 * Registration
 * Welcome
 * Introductions
@@ -20,7 +20,7 @@ Here's the roadmap for the Open Science workshop:
 ### 11:00AM - 11:15AM
 * Tea Break
 
-### 11:15 - 12:30: Introduction to markdown (Caleb)
+### 11:15 - 12:30: Introduction to Markdown (Caleb)
 * Markdown syntax
 * markdown editors
 
@@ -32,10 +32,10 @@ Here's the roadmap for the Open Science workshop:
 * Time to interact
 * Form teams
 
-### 2:00PM - 3:00PM: Git and GitHub (Caleb)
-* Introduction to GitHub
+### 2:00PM - 3:00PM: Introduction to Git and GitHub (Caleb)
+* Introduction
 * Setting up GitHub account
-* GitHub on the command line
+* Git on the command line
 
 ### 3:00PM - 4:00PM: Hands-on GitHub (Caleb)
 * Creating a Git repository
@@ -49,7 +49,7 @@ Here's the roadmap for the Open Science workshop:
 ### 4:15PM - 5:00PM: GitHub for Collaboration (Ronald)
 * Forking a repository
 * Creating issues and labels
-* Merging chnages
+* Merging changes
 
 
 ### 5:00PM - 5:30PM
@@ -85,7 +85,7 @@ Here's the roadmap for the Open Science workshop:
 ### 3:45PM - 4:00PM: 
 * BREAK
 
-### 4:00PM - 5:00 PM
+### 4:00PM - 5:00 PM: Hackathon
 * Recap and discussions on possible hackathon projects
 
 ### 5:00PM - 5:30PM
