@@ -2,7 +2,7 @@
 
 ## Background
 
-This project seeks to sensitize and promote open and reproducible Bioinformatics research within Nairobi. The target groups are the graduate students and highly motivated undergraduate students in local universities within Nairobi region. Through the project, we aim to promote open, reproducible and collaborative Bioinformatics research and produce researchers equipped with tools -- Git & GitHub, reproducible research notebooks (Rmarkdown and Jupyter) -- for open and collaborative research.  The participants will be ready to tackle local Bioinformatics challenges. In addition, this project is stepping towards building a community of Open Scientists who will promote open and collaborative research.
+This project seeks to sensitize and promote open and reproducible Bioinformatics research within Nairobi. The target groups are the graduate students and highly motivated undergraduate students in local universities within Nairobi region. Through the project, we aim to promote open, reproducible and collaborative Bioinformatics research and produce researchers equipped with tools -- Git & GitHub, reproducible research notebooks (Rmarkdown and Jupyter) -- for open and collaborative research.  The participants will be ready to tackle local Bioinformatics challenges. In addition, this project is step towards building a community of Open Scientists who will promote open and collaborative research.
 
 ## Participate
 
