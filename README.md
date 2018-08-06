@@ -2,7 +2,7 @@
 
 ## Background
 
-This project seeks to sensitize and promote open and reproducible Bioinformatics research within Nairobi. The target groups are the graduate students and highly motivated undergraduate students in local universities within Nairobi region. Through the project, we aim to promote open, reproducible and collaborative Bioinformatics research and produce researchers equipped with tools -- Git & GitHub, reproducible research notebooks (Rmarkdown and Jupyter) -- for open and collaborative research.  The participants will be ready to tackle local Bioinformatics challenges. In addition, this project is step towards building a community of Open Scientists who will promote open and collaborative research.
+This project seeks to sensitize and promote open and reproducible Bioinformatics research within Nairobi. The target groups are the graduate students and highly motivated undergraduate students in local universities within Nairobi region. Through the project, we aim to promote open, reproducible and collaborative Bioinformatics research and produce researchers equipped with tools -- Git & GitHub, reproducible research notebooks (Rmarkdown and Jupyter) -- for open and collaborative research.  The participants will be ready to tackle local Bioinformatics challenges. In addition, this project is a step towards building a community of Open Scientists who will promote open and collaborative research.
 
 ## Participate
 
@@ -30,7 +30,7 @@ For questions, suggestions or to participate, reach me via:
 - Email: kipkuruis [at] hotmail.com
 
 ## License
-All content of this repo is released under the [CC-BY 4.0 license]((https://creativecommons.org/licenses/by/4.0/legalcode)
+All content of this repo is released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 ### Attribution
 The contribution of [Mozilla Science Lab](https://science.mozilla.org/) and the [commit contributors](https://github.com/BioinfoNet/OpenScienceKE/graphs/contributors) to this template is hereby acknowledged. Sourced from https://github.com/joeyklee/friendly-github-intro. We have edited and stripped the content for our Open Science Workshop. 
@@ -39,3 +39,12 @@ The contribution of [Mozilla Science Lab](https://science.mozilla.org/) and the 
 We hereby acknowledge the funding for this project from [Alfred  P. Sloan Foundation](https://sloan.org/) through [Mozilla Science Lab](https://science.mozilla.org/) Mini-Grants.
 
 The workshop venue and computing resource support from [Kenya Education Network](https://www.kenet.or.ke/) (KENET) is also acknowledged. 
+
+## The Team
+This project has been a collaboration. 
+- [Caleb Kipkurui](https://github.com/kipkurui) (Project Lead)
+- [Rosaline Macharia](https://github.com/rosamach)
+- [Kelvin Muteru](https://github.com/kmut2030)
+- [Daniel Ouso](https://github.com/ousodaniel)
+- [Ben Mainye](https://github.com/Shuyib)
+- [Pauline karega](https://github.com/karegapauline)
