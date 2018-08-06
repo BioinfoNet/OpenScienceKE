@@ -2,7 +2,7 @@
 
 ## Background
 
-This project seeks to sensitize and promote open and reproducible Bioinformatics research within Nairobi. The target groups are the graduate students and highly motivated undergraduate students in local universities within Nairobi region. Through the project, we aim to promote open, reproducible and collaborative Bioinformatics research and produce researchers equipped with tools -- Git, reproducible research notebooks etc -- for open and collaborative research.  These students will be ready to tackle local Bioinformatics challenges. In addition, this project is also stepping towards developing a Bioinformatics curriculum tailored to local needs as well as promote open and collaborative research.
+This project seeks to sensitize and promote open and reproducible Bioinformatics research within Nairobi. The target groups are the graduate students and highly motivated undergraduate students in local universities within Nairobi region. Through the project, we aim to promote open, reproducible and collaborative Bioinformatics research and produce researchers equipped with tools -- Git & GitHub, reproducible research notebooks (Rmarkdown and Jupyter) -- for open and collaborative research.  The participants will be ready to tackle local Bioinformatics challenges. In addition, this project is stepping towards building a community of Open Scientists who will promote open and collaborative research.
 
 ## Participate
 
@@ -19,13 +19,12 @@ We are organizing seminars in May, workshops in August and hackathons in Septemb
 See [this page](./OpenScienceSeminar.md) for more information.
 
 ### Open Science Workshops
-Our Open Science Workshop will be held on 9th and 10th August 2017 at the KENET training room, Jomo Kenyatta Memorial Library, University of Nairobi. Applications to participate in the workshop can be made through [this Google Form](https://goo.gl/forms/s3aik3R6Uy0dannd2). 
+Our Open Science Workshop will be held on 9th and 10th August 2017 at the KENET training room, Jomo Kenyatta Memorial Library, the University of Nairobi from 9 am to 5 pm. Applications to participate in the workshop can be made through [this Google Form](https://goo.gl/forms/s3aik3R6Uy0dannd2) (Applications Closed). 
 
 #### Workshop Schedule
-The schedule for this workshop can be accessed [here](./WorkshopSchedule.md).
+The schedule for this workshop can be accessed [here](./schedule.md).
 
 ## Reach out
-
 For questions, suggestions or to participate, reach me via:
 - Twitter: [@calkibet](https://twitter.com/calkibet)
 - Email: kipkuruis [at] hotmail.com
@@ -38,3 +37,5 @@ The contribution of [Mozilla Science Lab](https://science.mozilla.org/) and the 
 
 ### Acknowledgement
 We hereby acknowledge the funding for this project from [Alfred  P. Sloan Foundation](https://sloan.org/) through [Mozilla Science Lab](https://science.mozilla.org/) Mini-Grants.
+
+The workshop venue and computing resource support from [Kenya Education Network](https://www.kenet.or.ke/) (KENET) is also acknowledged. 
