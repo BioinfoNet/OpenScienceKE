@@ -3,7 +3,7 @@
 Here's the roadmap for the Open Science workshop:
 
 ## Day 1 (August 9, 9:00AM - 5:00PM)
-### 9:00AM - 9:30AM: Welcome (Caleb Kibet)
+### 9:00AM - 9:30AM: Welcome (Caleb and Pauline)
 * Registration
 * Welcome
 * Introductions
@@ -14,13 +14,13 @@ Here's the roadmap for the Open Science workshop:
 * Refresher on Open Science
 * Open Science Tools
 
-### 10:00AM - 11:00AM: Commandline (Daniel Ouso)
+### 10:00AM - 11:00AM: Commandline (Ouso)
 * Basic Linux commandline introduction
 
 ### 11:00AM - 11:15AM
 * Tea Break
 
-### 11:15 - 12:30: Introduction to markdown (Caleb)
+### 11:15 - 12:30: Introduction to Markdown (Caleb)
 * Markdown syntax
 * markdown editors
 
@@ -28,16 +28,16 @@ Here's the roadmap for the Open Science workshop:
 ### 12:30PM - 1:30PM
 * LUNCH
 
-### 1:30PM - 2:00PM: Discussions and Interactions (Rosaline Macharia)
+### 1:30PM - 2:00PM: Discussions and Interactions (Rosaline)
 * Time to interact
 * Form teams
 
-### 2:00PM - 3:00PM: Git and GitHub (Caleb and ??)
-* Introduction to GitHub
+### 2:00PM - 3:00PM: Introduction to Git and GitHub (Caleb)
+* Introduction
 * Setting up GitHub account
-* GitHub on the command line
+* Git on the command line
 
-### 3:00PM - 4:00PM: Hands-on GitHub ()
+### 3:00PM - 4:00PM: Hands-on GitHub (Caleb)
 * Creating a Git repository
 * Adding changes to stage
 * Committing changes
@@ -46,10 +46,10 @@ Here's the roadmap for the Open Science workshop:
 ### 4:00PM - 4:15PM
 * BREAK
 
-### 4:15PM - 5:00PM: GitHub for Collaboration ()
+### 4:15PM - 5:00PM: GitHub for Collaboration (Ronald)
 * Forking a repository
 * Creating issues and labels
-* Merging chnages
+* Merging changes
 
 
 ### 5:00PM - 5:30PM
@@ -61,7 +61,7 @@ Here's the roadmap for the Open Science workshop:
 ### 9:00AM - 9:30AM
 * Set up, Q&A
 
-### 9:30AM - 10:45AM: Rstudio
+### 9:30AM - 10:45AM: Rstudio (Kelvin and Caleb)
 * Reproducible Research in RStudio
 * Rmarkdown
 
@@ -77,8 +77,7 @@ Here's the roadmap for the Open Science workshop:
 * LUNCH
 
 ### 1:30PM - 2:30PM: Interactive Sessions
-* Group disciussions and interactions
-
+* Group discussions and interactions
 
 ### 2:30PM - 3:45PM
 * Hands-on Group activities
@@ -86,8 +85,8 @@ Here's the roadmap for the Open Science workshop:
 ### 3:45PM - 4:00PM: 
 * BREAK
 
-### 4:00PM - 5:00 PM
-* Recap and Discussing possible Open Science Projects
+### 4:00PM - 5:00 PM: Hackathon
+* Recap and discussions on possible hackathon projects
 
 ### 5:00PM - 5:30PM
 * Q&A and Wrap Up
