@@ -14,42 +14,45 @@ Here's the roadmap for the Open Science workshop:
 * Refresher on Open Science
 * Open Science Tools
 
-### 10:00AM - 11:00AM: Commandline (Ouso)
-* Basic Linux commandline introduction
-
-### 11:00AM - 11:15AM
+### 10:15:00AM - 10:30AM
 * Tea Break
 
-### 11:15 - 12:30: Introduction to Markdown (Caleb)
+### 10:30 - 11:30AM: Commandline (Ouso)
+* Basic Linux commandline introduction
+
+### 11:30 - 12:30: Introduction to Markdown (Caleb)
 * Markdown syntax
 * markdown editors
+* Try it yourself (15 minutes)
 
 
 ### 12:30PM - 1:30PM
 * LUNCH
 
-### 1:30PM - 2:00PM: Discussions and Interactions (Rosaline)
+### 1:30PM - 2:00PM: Discussions and Interactions (Pauline)
 * Time to interact
 * Form teams
 
 ### 2:00PM - 3:00PM: Introduction to Git and GitHub (Caleb)
 * Introduction
 * Setting up GitHub account
-* Git on the command line
+* GitHub terminologies
 
-### 3:00PM - 4:00PM: Hands-on GitHub (Caleb)
+### 3:00PM - 4:00PM: GitHub for Collaboration (Ronald)
+* Forking a repository
+* Creating issues and labels
+* Merging changes
+* Pull requests
+
+### 4:00PM - 4:15PM
+* BREAK
+
+### 4:15PM - 5:00PM: Hands-on GitHub (Caleb)
 * Creating a Git repository
 * Adding changes to stage
 * Committing changes
 * Pushing changes to GitHub
 
-### 4:00PM - 4:15PM
-* BREAK
-
-### 4:15PM - 5:00PM: GitHub for Collaboration (Ronald)
-* Forking a repository
-* Creating issues and labels
-* Merging changes
 
 
 ### 5:00PM - 5:30PM
