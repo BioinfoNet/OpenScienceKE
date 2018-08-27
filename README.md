@@ -24,6 +24,8 @@ Our Open Science Workshop will be held on 9th and 10th August 2017 at the KENET 
 #### Workshop Schedule
 The schedule for this workshop can be accessed [here](./schedule.md).
 
+## OpenScienceKE Hackathon
+Our Open science hackathon is scheduled for 30th and 31st August 2018. Check the [hackathon repo](https://github.com/BioinfoNet/OpenScienceKEHackathon) for the projects, and details on how you can contribute.
 ## Reach out
 For questions, suggestions or to participate, reach me via:
 - Twitter: [@calkibet](https://twitter.com/calkibet)
@@ -48,3 +50,4 @@ This project has been a collaboration.
 - [Daniel Ouso](https://github.com/ousodaniel)
 - [Ben Mainye](https://github.com/Shuyib)
 - [Pauline karega](https://github.com/karegapauline)
+- [Esoh Kevin](https://github.com/esohkevin)
