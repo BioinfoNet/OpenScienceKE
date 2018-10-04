@@ -13,7 +13,7 @@ You can participate in a number of ways, including:
 4. You Love open science and would like to fund our events
 
 ## Events
-We are organizing seminars in May, workshops in August and hackathons in September. Keep an eye [this page](https://kipkurui.github.io/studyGroup/) for our events posting. 
+We are organizing seminars in May, workshops in August, hackathons in September, and Meetups afterwards. Keep an eye [this page](https://kipkurui.github.io/studyGroup/) for our events posting. 
 
 ### Open Science Seminars
 See [this page](./OpenScienceSeminar.md) for more information.
@@ -26,6 +26,11 @@ The schedule for this workshop can be accessed [here](./schedule.md).
 
 ## OpenScienceKE Hackathon
 Our Open science hackathon is scheduled for 30th and 31st August 2018. Check the [hackathon repo](https://github.com/BioinfoNet/OpenScienceKEHackathon) for the projects, and details on how you can contribute.
+
+
+## OpenScienceKE Meetups
+The final stage of OpenScienceKE is to form a community that will keep the conversation going. We'll be organizing regular meetups within Nairobi. 
+
 ## Reach out
 For questions, suggestions or to participate, reach me via:
 - Twitter: [@calkibet](https://twitter.com/calkibet)
