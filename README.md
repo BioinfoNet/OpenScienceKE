@@ -15,20 +15,20 @@ You can participate in a number of ways, including:
 ## Events
 We are organizing seminars in May, workshops in August, hackathons in September, and Meetups afterwards. Keep an eye [this page](https://kipkurui.github.io/studyGroup/) for our events posting. 
 
-### Open Science Seminars
+### 1. OpenScienceKE Seminars
 See [this page](./OpenScienceSeminar.md) for more information.
 
-### Open Science Workshops
+### 2. OpenScienceKE Workshops
 Our Open Science Workshop will be held on 9th and 10th August 2017 at the KENET training room, Jomo Kenyatta Memorial Library, the University of Nairobi from 9 am to 5 pm. Applications to participate in the workshop can be made through [this Google Form](https://goo.gl/forms/s3aik3R6Uy0dannd2) (Applications Closed). 
 
 #### Workshop Schedule
 The schedule for this workshop can be accessed [here](./schedule.md).
 
-## OpenScienceKE Hackathon
+## 3. OpenScienceKE Hackathon
 Our Open science hackathon is scheduled for 30th and 31st August 2018. Check the [hackathon repo](https://github.com/BioinfoNet/OpenScienceKEHackathon) for the projects, and details on how you can contribute.
 
 
-## OpenScienceKE Meetups
+## 4. OpenScienceKE Meetups
 The final stage of OpenScienceKE is to form a community that will keep the conversation going. We'll be organizing regular meetups within Nairobi. 
 
 ## Reach out
