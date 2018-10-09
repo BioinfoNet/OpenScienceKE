@@ -1,16 +1,28 @@
-# Promoting Open Science in Bioinformatics
+# OpenScienceKE: Promoting Open Science in Bioinformatics
+Welcome to OpenScienceKE! Thank you for your interest in our project. We are open science enthusiasts -- scientists, researchers and students -- led by [Caleb Kibet](https://github.com/kipkurui), seeking to promote open science practices in Bioinformatics. 
 
 ## Background
+ We are working with Bioinformatics students and researchers to promote open, collaborative and reproducible Bioinformatics Research in Nairobi, Kenya so that we can we can build a community of Bioinformaticians who can collaborate and spread the open science message. 
+ 
+We seek to address the following problems:
+- the lack of awareness of Open Science practices and tools within the Bioinformatics community in Kenya
+- the poor adoption of open science practices in Bioinformatics
+- the absence of research to establish the where we are as a country (Kenya) in adopting open science
 
-This project seeks to sensitize and promote open and reproducible Bioinformatics research within Nairobi. The target groups are the graduate students and highly motivated undergraduate students in local universities within Nairobi region. Through the project, we aim to promote open, reproducible and collaborative Bioinformatics research and produce researchers equipped with tools -- Git & GitHub, reproducible research notebooks (Rmarkdown and Jupyter) -- for open and collaborative research.  The participants will be ready to tackle local Bioinformatics challenges. In addition, this project is a step towards building a community of Open Scientists who will promote open and collaborative research.
+Through the project, we aim to promote open, reproducible and collaborative Bioinformatics research and produce researchers equipped with tools -- Git & GitHub, reproducible research notebooks (Rmarkdown and Jupyter) -- for open and collaborative research. The participants will be ready to tackle local Bioinformatics challenges. In addition, this project is a step towards building a community of Open Scientists who will promote open and collaborative research.
 
-## Participate
+From this project, we aim to deliver a community of Bioinformaticians who can collaborate and spread the open science message. We also aim to generate information on the status of open science in Kenya which can be used by policymakers and academic institutions, and a resource that can guide students on where they can publish open access at a low cost. Finally, create open Science training resources available in a reusable licence: CC BY 4.0. 
 
-You can participate in a number of ways, including:
-1. You are familiar with open science tools and would  like to offer to train or  contribute to training materials
+Welcome to this exciting journey!
+
+## Participate and Contribute
+Although the project targets the field of Bioinformatics, contributions from any field are welcome. You can participate in a number of ways, including:
+1. You are familiar with open science tools (Git and GitHub, Linux Commandline, Jupyter Notebooks, RMarkdown and Notebooks) and would like to offer to train or contribute to training materials
 2. You are a Bioinformatics student, or enthusiasts, and would like to participate in our workshops and/or hackathons
-3. You are an open Science advocate within Nairobi and would love to give a lecture in one of our events
+3. You are an open Science advocate within Nairobi and would love to give a talk in one of our events
 4. You Love open science and would like to fund our events
+
+Have a look at the [#OpenScienceKE](https://github.com/BioinfoNet/OpenScienceKEHackathon) repo for additional ways of contributing to the specific projects. 
 
 ## Events
 We are organizing seminars in May, workshops in August, hackathons in September, and Meetups afterwards. Keep an eye [this page](https://kipkurui.github.io/studyGroup/) for our events posting. 
