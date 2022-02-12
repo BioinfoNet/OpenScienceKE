@@ -33,20 +33,25 @@ See [this page](./OpenScienceSeminar.md) for more information.
 ### 2. OpenScienceKE Workshops
 Our Open Science Workshop will be held on 9th and 10th August 2017 at the KENET training room, Jomo Kenyatta Memorial Library, the University of Nairobi from 9 am to 5 pm. Applications to participate in the workshop can be made through [this Google Form](https://goo.gl/forms/s3aik3R6Uy0dannd2) (Applications Closed). 
 
+
+
 #### Workshop Schedule
 The schedule for this workshop can be accessed [here](./schedule.md).
 
 ## 3. OpenScienceKE Hackathon
-Our Open science hackathon is scheduled for 30th and 31st August 2018. Check the [hackathon repo](https://github.com/BioinfoNet/OpenScienceKEHackathon) for the projects, and details on how you can contribute.
 
+Check the [hackathon repo](https://github.com/BioinfoNet/OpenScienceKEHackathon) for the projects, and details on how you can contribute.
+
+We host Resgular Open Science Hackothon.
 
 ## 4. OpenScienceKE Meetups
-The final stage of OpenScienceKE is to form a community that will keep the conversation going. We'll be organizing regular meetups within Nairobi. 
+The final stage of OpenScienceKE model is to form a community that will keep the conversation going. We'll be organizing regular meetups within Nairobi. 
 
 ## Reach out
 For questions, suggestions or to participate, reach me via:
 - Twitter: [@calkibet](https://twitter.com/calkibet)
-- Email: kipkuruis [at] hotmail.com
+- [Join Slack](https://join.slack.com/t/openscienceke/shared_invite/zt-13i5ivb9e-jPpF0ey3fSDN_E_jg5lgfQ)
+- Raise an Issue here
 
 ## License
 All content of this repo is released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
